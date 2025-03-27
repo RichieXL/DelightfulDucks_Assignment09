@@ -4,7 +4,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>4bf8b555-23b0-48ba-a98d-4d32bc1c43a4</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>DelightfulDucks_Assignment09.py</StartupFile>
+    <StartupFile>
+    </StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +22,6 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DelightfulDucks_Assignment09.py" />
     <Compile Include="Josh\JoshWork\__init__.py">
       <SubType>Code</SubType>
     </Compile>
