@@ -28,6 +28,12 @@
     <Compile Include="Josh\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="mainPackage\Main.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mainPackage\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Richie\RichieWork.py">
       <SubType>Code</SubType>
     </Compile>
@@ -38,6 +44,7 @@
   <ItemGroup>
     <Folder Include="Josh\" />
     <Folder Include="Josh\JoshWork\" />
+    <Folder Include="mainPackage\" />
     <Folder Include="Richie\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
